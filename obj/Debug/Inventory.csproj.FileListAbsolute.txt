@@ -1,0 +1,14 @@
+C:\Users\heave\OneDrive\Documents\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\heave\OneDrive\Documents\Inventory\bin\Debug\Inventory.exe
+C:\Users\heave\OneDrive\Documents\Inventory\bin\Debug\Inventory.pdb
+C:\Users\heave\OneDrive\Documents\Inventory\obj\Debug\Inventory.csproj.AssemblyReference.cache
+C:\Users\heave\OneDrive\Documents\Inventory\obj\Debug\Inventory.csproj.SuggestedBindingRedirects.cache
+C:\Users\heave\OneDrive\Documents\Inventory\obj\Debug\Inventory.Login.resources
+C:\Users\heave\OneDrive\Documents\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+C:\Users\heave\OneDrive\Documents\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+C:\Users\heave\OneDrive\Documents\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\heave\OneDrive\Documents\Inventory\obj\Debug\Inventory.exe
+C:\Users\heave\OneDrive\Documents\Inventory\obj\Debug\Inventory.pdb
+C:\Users\heave\OneDrive\Documents\Inventory\obj\Debug\Inventory.Dashboard.resources
+C:\Users\heave\OneDrive\Documents\Inventory\obj\Debug\Inventory.Signup.resources
+C:\Users\heave\OneDrive\Documents\Inventory\obj\Debug\Inventory.products.resources
